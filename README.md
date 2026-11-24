@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Experience true combat gameplay in a massive military sandbox. Deploy with a wide variety of single- and multiplayer content, a massive arsenal of modern weapons and vehicles, and limitless opportunities for content creation. Authentic, diverse, open - Arma 3 sends you to war.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,16 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 (64-bit) / Rec: Windows 10 / 11 (64-bit) | macOS Big Sur 11 |
+| **Processor** | Min: Intel Core quad-core or AMD Athlon quad-core / Rec: Intel Core i7-7700K or AMD Ryzen 3 3300X or better | Apple M1 or 2-core Intel Core i5 1.4 GHz or better |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 660 or AMD Radeon HD 7850 or Intel H… / Rec: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580, with 6 GB… | Intel HD Graphics 5000 or better |
+| **Storage** | Min: 50 GB available space / Rec: 80 GB available space (SSD) | 50 GB available space |
+| **DirectX®** | Min: 10 / Rec: 11 | 10 |
+| **Audio** | DirectX® compatible | DirectX® compatible |
+| **Other** | Internet connection and free Steam account to activate | Internet connection and free Steam account to activate |
+| **GPU Memory** | — | 1 GB |
+| **Hard Drive** | — | 45 GB |
 
 ---
 
